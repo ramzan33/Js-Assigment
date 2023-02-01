@@ -1,0 +1,22 @@
+/*
+Created by M.Ramzan
+*/
+
+:root{
+    --black: black;
+    --white: #FFFAF0;
+    --green: #228B22;
+
+  }
+  .first{
+    background-color: var(--white);
+ }
+  
+ .second{
+    color: var(--green);
+ }
+ .thirdParagraph, .second {
+    border: 2px outset rgb(160,0,0);
+    padding: .857em;
+    margin: 25px 50px 75px 100px;
+ }
